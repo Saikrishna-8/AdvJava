@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Accolite {
+public class BeatifulPathInJava {
 
-	public Accolite() {
+	public BeatifulPathInJava() {
 	}
 
 	public static void main(String[] args) {
